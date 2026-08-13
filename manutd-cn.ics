@@ -1,15 +1,887 @@
 BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Romino0//Manchester United Chinese Calendar//ZH-CN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:曼联赛程（中文）
-X-WR-TIMEZONE:Asia/Shanghai
+PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+X-WR-CALNAME:曼联赛程（中文） Men
 BEGIN:VEVENT
-UID:manutd-cn-placeholder@romino0.github
-DTSTART;TZID=Asia/Shanghai:20260822T193000
-DTEND;TZID=Asia/Shanghai:20260822T213000
-SUMMARY:⚽ 赫尔城 vs 曼联
-DESCRIPTION:曼联中文赛程订阅源，自动更新程序将在 GitHub Actions 中同步曼联官方赛程。
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Wrexham - 友谊赛.\n\nAll dates subject to change.
+  For fixture info visit https://www.manutd.com/en/matches/mens-team/fixtu
+ res. For match coverage\, highlights and reaction go to https://www.manut
+ d.com/en/mutv\, and visit https://tickets.manutd.com for tickets and hosp
+ itality info.
+DTEND:20260718T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260718T150000Z
+LOCATION:Helsingin olympiastadion\, Helsinki (Helsingfors)
+SEQUENCE:0
+SUMMARY:曼联 vs Wrexham - 友谊赛
+UID:etal282lvtjc3lo2nenioecd0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Rosenborg vs 曼联 - 友谊赛.\n\nAll dates subject to chang
+ e. For fixture info visit https://www.manutd.com/en/matches/mens-team/fix
+ tures. For match coverage\, highlights and reaction go to https://www.man
+ utd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and ho
+ spitality info.
+DTEND:20260724T180000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260724T160000Z
+LOCATION:Lerkendal Stadion\, Trondheim
+SEQUENCE:0
+SUMMARY:Rosenborg vs 曼联 - 友谊赛
+UID:2y6sd3jngksd7baglnsmdxpuc
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Atlético - 友谊赛.\n\nAll dates subject to change
+ . For fixture info visit https://www.manutd.com/en/matches/mens-team/fixt
+ ures. For match coverage\, highlights and reaction go to https://www.manu
+ td.com/en/mutv\, and visit https://tickets.manutd.com for tickets and hos
+ pitality info.
+DTEND:20260801T150000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260801T130000Z
+LOCATION:Strawberry Arena\, Solna
+SEQUENCE:0
+SUMMARY:曼联 vs Atlético - 友谊赛
+UID:atv0a0e6fy0e7scgtlrnsn5zo
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Paris SG vs 曼联 - 友谊赛.\n\nAll dates subject to change
+ . For fixture info visit https://www.manutd.com/en/matches/mens-team/fixt
+ ures. For match coverage\, highlights and reaction go to https://www.manu
+ td.com/en/mutv\, and visit https://tickets.manutd.com for tickets and hos
+ pitality info.
+DTEND:20260808T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260808T150000Z
+LOCATION:Nya Ullevi\, Göteborg
+SEQUENCE:0
+SUMMARY:Paris SG vs 曼联 - 友谊赛
+UID:7xbmps3o6zxuzhpz19vpymql0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Leeds - 友谊赛.\n\nAll dates subject to change. F
+ or fixture info visit https://www.manutd.com/en/matches/mens-team/fixture
+ s. For match coverage\, highlights and reaction go to https://www.manutd.
+ com/en/mutv\, and visit https://tickets.manutd.com for tickets and hospit
+ ality info.
+DTEND:20260812T203000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260812T183000Z
+LOCATION:Croke Park\, Dublin
+SEQUENCE:0
+SUMMARY:曼联 vs Leeds - 友谊赛
+UID:ckvdykzf4k086lz0xgjob7fo4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Milan - 友谊赛.\n\nAll dates subject to change. F
+ or fixture info visit https://www.manutd.com/en/matches/mens-team/fixture
+ s. For match coverage\, highlights and reaction go to https://www.manutd.
+ com/en/mutv\, and visit https://tickets.manutd.com for tickets and hospit
+ ality info.
+DTEND:20260815T164500Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260815T144500Z
+LOCATION:Tarczyński Arena\, Wrocław
+SEQUENCE:0
+SUMMARY:曼联 vs Milan - 友谊赛
+UID:1db3eest4jp8jb7p9up2q1ij8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Hull vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to chan
+ ge. For fixture info visit https://www.manutd.com/en/matches/mens-team/fi
+ xtures. For match coverage\, highlights and reaction go to https://www.ma
+ nutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and h
+ ospitality info.
+DTEND:20260822T133000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260822T113000Z
+LOCATION:MKM Stadium\, Hull
+SEQUENCE:0
+SUMMARY:Hull vs 曼联 - 英格兰超级联赛
+UID:3wq9hncqqa8jbtggi5dxokc2c
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Ipswich - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20260830T173000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260830T153000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Ipswich - 英格兰超级联赛
+UID:422vd3oj6haw9xll17akl4qvo
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:埃弗顿 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20260906T150000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260906T130000Z
+LOCATION:Hill Dickinson Stadium\, 利物浦\, Merseyside
+SEQUENCE:0
+SUMMARY:埃弗顿 vs 曼联 - 英格兰超级联赛
+UID:445lpt3o7zph0b4hxgg8kpdsk
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Man City - 英格兰超级联赛.\n\nAll dates subject to 
+ change. For fixture info visit https://www.manutd.com/en/matches/mens-tea
+ m/fixtures. For match coverage\, highlights and reaction go to https://ww
+ w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
+ nd hospitality info.
+DTEND:20260913T173000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260913T153000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Man City - 英格兰超级联赛
+UID:48z6gh2pq3ycstu7r7zhaq7f8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:富勒姆 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to ch
+ ange. For fixture info visit https://www.manutd.com/en/matches/mens-team/
+ fixtures. For match coverage\, highlights and reaction go to https://www.
+ manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
+  hospitality info.
+DTEND:20260920T173000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20260920T153000Z
+LOCATION:Craven Cottage\, London
+SEQUENCE:0
+SUMMARY:富勒姆 vs 曼联 - 英格兰超级联赛
+UID:4bdh1k5miiggomnrfvy7egb2s
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Spurs - 英格兰超级联赛.\n\nAll dates subject to cha
+ nge. For fixture info visit https://www.manutd.com/en/matches/mens-team/f
+ ixtures. For match coverage\, highlights and reaction go to https://www.m
+ anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
+ hospitality info.
+DTEND:20261010T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261010T140000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Spurs - 英格兰超级联赛
+UID:4g75p1zyxl4j8c7wmeo4ezor8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Leeds vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to cha
+ nge. For fixture info visit https://www.manutd.com/en/matches/mens-team/f
+ ixtures. For match coverage\, highlights and reaction go to https://www.m
+ anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
+ hospitality info.
+DTEND:20261017T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261017T140000Z
+LOCATION:Elland Road\, Leeds\, West Yorkshire
+SEQUENCE:0
+SUMMARY:Leeds vs 曼联 - 英格兰超级联赛
+UID:4im1i75y6j3aow3jgfvz2u2hg
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 伯恩茅斯 - 英格兰超级联赛.\n\nAll dates subject 
+ to change. For fixture info visit https://www.manutd.com/en/matches/mens-
+ team/fixtures. For match coverage\, highlights and reaction go to https:/
+ /www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ticket
+ s and hospitality info.
+DTEND:20261024T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261024T140000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 伯恩茅斯 - 英格兰超级联赛
+UID:4n3frqf8oggpkxs3v2rc0ry8k
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:切尔西 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20261031T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261031T150000Z
+LOCATION:Stamford Bridge\, London
+SEQUENCE:0
+SUMMARY:切尔西 vs 曼联 - 英格兰超级联赛
+UID:4othg6zhiyox0rivijbld3swk
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Villa - 英格兰超级联赛.\n\nAll dates subject to cha
+ nge. For fixture info visit https://www.manutd.com/en/matches/mens-team/f
+ ixtures. For match coverage\, highlights and reaction go to https://www.m
+ anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
+ hospitality info.
+DTEND:20261107T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261107T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Villa - 英格兰超级联赛
+UID:4tp842gtjqyx0bbp23n3em9zo
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:利物浦 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to
+  change. For fixture info visit https://www.manutd.com/en/matches/mens-te
+ am/fixtures. For match coverage\, highlights and reaction go to https://w
+ ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
+ and hospitality info.
+DTEND:20261121T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261121T150000Z
+LOCATION:Anfield\, 利物浦
+SEQUENCE:0
+SUMMARY:利物浦 vs 曼联 - 英格兰超级联赛
+UID:4wrsp64aq5fpx9pq0b76gdlhw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 布伦特福德 - 英格兰超级联赛.\n\nAll dates subject to
+  change. For fixture info visit https://www.manutd.com/en/matches/mens-te
+ am/fixtures. For match coverage\, highlights and reaction go to https://w
+ ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
+ and hospitality info.
+DTEND:20261128T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261128T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 布伦特福德 - 英格兰超级联赛
+UID:50jewe5a2x1vi9xqmjovi63o4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Newcastle vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to
+  change. For fixture info visit https://www.manutd.com/en/matches/mens-te
+ am/fixtures. For match coverage\, highlights and reaction go to https://w
+ ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
+ and hospitality info.
+DTEND:20261202T220000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261202T200000Z
+LOCATION:St. James' Park\, Newcastle upon Tyne
+SEQUENCE:0
+SUMMARY:Newcastle vs 曼联 - 英格兰超级联赛
+UID:54bt4z6uy616ht0uuwwsierro
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Coventry - 英格兰超级联赛.\n\nAll dates subject to 
+ change. For fixture info visit https://www.manutd.com/en/matches/mens-tea
+ m/fixtures. For match coverage\, highlights and reaction go to https://ww
+ w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
+ nd hospitality info.
+DTEND:20261205T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261205T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Coventry - 英格兰超级联赛
+UID:573b0ixr5iimdkxglz3jrkmj8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Palace vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to ch
+ ange. For fixture info visit https://www.manutd.com/en/matches/mens-team/
+ fixtures. For match coverage\, highlights and reaction go to https://www.
+ manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
+  hospitality info.
+DTEND:20261212T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261212T150000Z
+LOCATION:Selhurst Park\, London
+SEQUENCE:0
+SUMMARY:Palace vs 曼联 - 英格兰超级联赛
+UID:59i0kxcmgwgrud4h9cfjwdedw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:阿森纳 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20261219T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261219T150000Z
+LOCATION:Emirates Stadium\, London
+SEQUENCE:0
+SUMMARY:阿森纳 vs 曼联 - 英格兰超级联赛
+UID:5c8vms7il1p110lfq50eqts7o
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Forest - 英格兰超级联赛.\n\nAll dates subject to ch
+ ange. For fixture info visit https://www.manutd.com/en/matches/mens-team/
+ fixtures. For match coverage\, highlights and reaction go to https://www.
+ manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
+  hospitality info.
+DTEND:20261226T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261226T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Forest - 英格兰超级联赛
+UID:5hus55kbhcz9ubuaihuqahudw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 桑德兰 - 英格兰超级联赛.\n\nAll dates subject t
+ o change. For fixture info visit https://www.manutd.com/en/matches/mens-t
+ eam/fixtures. For match coverage\, highlights and reaction go to https://
+ www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets
+  and hospitality info.
+DTEND:20261230T220000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20261230T200000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 桑德兰 - 英格兰超级联赛
+UID:5la8l0tig69lnukmmmhy7ias4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Brighton vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to 
+ change. For fixture info visit https://www.manutd.com/en/matches/mens-tea
+ m/fixtures. For match coverage\, highlights and reaction go to https://ww
+ w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
+ nd hospitality info.
+DTEND:20270102T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270102T150000Z
+LOCATION:American Express Stadium\, Falmer\, East Sussex
+SEQUENCE:0
+SUMMARY:Brighton vs 曼联 - 英格兰超级联赛
+UID:5ncutcyqm37dim21ztr2n5qtw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Newcastle - 英格兰超级联赛.\n\nAll dates subject to
+  change. For fixture info visit https://www.manutd.com/en/matches/mens-te
+ am/fixtures. For match coverage\, highlights and reaction go to https://w
+ ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
+ and hospitality info.
+DTEND:20270106T220000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270106T200000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Newcastle - 英格兰超级联赛
+UID:5s75i58b6bfzf36hqmgdoxi50
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Villa vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to cha
+ nge. For fixture info visit https://www.manutd.com/en/matches/mens-team/f
+ ixtures. For match coverage\, highlights and reaction go to https://www.m
+ anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
+ hospitality info.
+DTEND:20270116T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270116T150000Z
+LOCATION:Villa Park\, Birmingham
+SEQUENCE:0
+SUMMARY:Villa vs 曼联 - 英格兰超级联赛
+UID:5tlflrszgdaz6qa2fkmf4h8no
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 利物浦 - 英格兰超级联赛.\n\nAll dates subject to
+  change. For fixture info visit https://www.manutd.com/en/matches/mens-te
+ am/fixtures. For match coverage\, highlights and reaction go to https://w
+ ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
+ and hospitality info.
+DTEND:20270123T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270123T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 利物浦 - 英格兰超级联赛
+UID:5z5snobv307j02fimm73i51qs
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:布伦特福德 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to
+  change. For fixture info visit https://www.manutd.com/en/matches/mens-te
+ am/fixtures. For match coverage\, highlights and reaction go to https://w
+ ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
+ and hospitality info.
+DTEND:20270130T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270130T150000Z
+LOCATION:Gtech Community Stadium\, 布伦特福德\, Middlesex
+SEQUENCE:0
+SUMMARY:布伦特福德 vs 曼联 - 英格兰超级联赛
+UID:60w7fki65xgpby2yuxc44m1p0
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 切尔西 - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20270206T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270206T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 切尔西 - 英格兰超级联赛
+UID:662tr5phnpgvhalpq9wodtgk4
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Brighton - 英格兰超级联赛.\n\nAll dates subject to 
+ change. For fixture info visit https://www.manutd.com/en/matches/mens-tea
+ m/fixtures. For match coverage\, highlights and reaction go to https://ww
+ w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
+ nd hospitality info.
+DTEND:20270210T220000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270210T200000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Brighton - 英格兰超级联赛
+UID:69iryxlmawpa29t1r3m6hz9xw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Forest vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to ch
+ ange. For fixture info visit https://www.manutd.com/en/matches/mens-team/
+ fixtures. For match coverage\, highlights and reaction go to https://www.
+ manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
+  hospitality info.
+DTEND:20270220T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270220T150000Z
+LOCATION:The City Ground\, Nottingham\, Nottinghamshire
+SEQUENCE:0
+SUMMARY:Forest vs 曼联 - 英格兰超级联赛
+UID:6dbx5paf752ghopq7bppbzuvo
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 阿森纳 - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20270227T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270227T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 阿森纳 - 英格兰超级联赛
+UID:6gfw7jruiwgiiu8qrwmij6wpg
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:桑德兰 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject t
+ o change. For fixture info visit https://www.manutd.com/en/matches/mens-t
+ eam/fixtures. For match coverage\, highlights and reaction go to https://
+ www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets
+  and hospitality info.
+DTEND:20270303T220000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270303T200000Z
+LOCATION:Stadium of Light\, 桑德兰
+SEQUENCE:0
+SUMMARY:桑德兰 vs 曼联 - 英格兰超级联赛
+UID:6klq4lpwssfw86s087os3807o
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 埃弗顿 - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20270313T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270313T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 埃弗顿 - 英格兰超级联赛
+UID:6nckhgsrtkq2ki0r68195ksgk
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Man City vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to 
+ change. For fixture info visit https://www.manutd.com/en/matches/mens-tea
+ m/fixtures. For match coverage\, highlights and reaction go to https://ww
+ w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
+ nd hospitality info.
+DTEND:20270320T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270320T150000Z
+LOCATION:Etihad Stadium\, Manchester
+SEQUENCE:0
+SUMMARY:Man City vs 曼联 - 英格兰超级联赛
+UID:6qtiebng21xrn0g73vojyjmdw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Hull - 英格兰超级联赛.\n\nAll dates subject to chan
+ ge. For fixture info visit https://www.manutd.com/en/matches/mens-team/fi
+ xtures. For match coverage\, highlights and reaction go to https://www.ma
+ nutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and h
+ ospitality info.
+DTEND:20270410T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270410T140000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Hull - 英格兰超级联赛
+UID:6u9q7gkri3awnvxnyapgi77ys
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Ipswich vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to c
+ hange. For fixture info visit https://www.manutd.com/en/matches/mens-team
+ /fixtures. For match coverage\, highlights and reaction go to https://www
+ .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
+ d hospitality info.
+DTEND:20270417T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270417T140000Z
+LOCATION:Portman Road\, Ipswich\, Suffolk
+SEQUENCE:0
+SUMMARY:Ipswich vs 曼联 - 英格兰超级联赛
+UID:6xfbqt8xsmvr5pid198z18e1g
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Palace - 英格兰超级联赛.\n\nAll dates subject to ch
+ ange. For fixture info visit https://www.manutd.com/en/matches/mens-team/
+ fixtures. For match coverage\, highlights and reaction go to https://www.
+ manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
+  hospitality info.
+DTEND:20270424T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270424T140000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Palace - 英格兰超级联赛
+UID:7171hpw3ufexx6b1hwoswik2c
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Coventry vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to 
+ change. For fixture info visit https://www.manutd.com/en/matches/mens-tea
+ m/fixtures. For match coverage\, highlights and reaction go to https://ww
+ w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
+ nd hospitality info.
+DTEND:20270501T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270501T140000Z
+LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands
+SEQUENCE:0
+SUMMARY:Coventry vs 曼联 - 英格兰超级联赛
+UID:73a3zc1r3e8mqgsitbmdae39w
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:伯恩茅斯 vs 曼联 - 英格兰超级联赛.\n\nAll dates subject 
+ to change. For fixture info visit https://www.manutd.com/en/matches/mens-
+ team/fixtures. For match coverage\, highlights and reaction go to https:/
+ /www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ticket
+ s and hospitality info.
+DTEND:20270508T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270508T140000Z
+LOCATION:Vitality Stadium\, 伯恩茅斯\, Dorset
+SEQUENCE:0
+SUMMARY:伯恩茅斯 vs 曼联 - 英格兰超级联赛
+UID:761hlzpwjr5fywg3d4abvzytw
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs Leeds - 英格兰超级联赛.\n\nAll dates subject to cha
+ nge. For fixture info visit https://www.manutd.com/en/matches/mens-team/f
+ ixtures. For match coverage\, highlights and reaction go to https://www.m
+ anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
+ hospitality info.
+DTEND:20270515T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270515T140000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs Leeds - 英格兰超级联赛
+UID:7cafhudw5evq1p48jjsrxikno
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:Spurs vs 曼联 - 英格兰超级联赛.\n\nAll dates subject to cha
+ nge. For fixture info visit https://www.manutd.com/en/matches/mens-team/f
+ ixtures. For match coverage\, highlights and reaction go to https://www.m
+ anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
+ hospitality info.
+DTEND:20270523T160000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270523T140000Z
+LOCATION:托特纳姆热刺 Stadium\, London
+SEQUENCE:0
+SUMMARY:Spurs vs 曼联 - 英格兰超级联赛
+UID:7g3ju5s6v0x044886trrr6ej8
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:曼联 vs 富勒姆 - 英格兰超级联赛.\n\nAll dates subject to ch
+ ange. For fixture info visit https://www.manutd.com/en/matches/mens-team/
+ fixtures. For match coverage\, highlights and reaction go to https://www.
+ manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
+  hospitality info.
+DTEND:20270530T170000Z
+DTSTAMP:20260813T084956Z
+DTSTART:20270530T150000Z
+LOCATION:老特拉福德球场\, Manchester
+SEQUENCE:0
+SUMMARY:曼联 vs 富勒姆 - 英格兰超级联赛
+UID:7j7bsq8gp5imjqpni3rfi7lec
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+TRIGGER:-PT15M
+END:VALARM
 END:VEVENT
 END:VCALENDAR
