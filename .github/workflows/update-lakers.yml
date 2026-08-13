@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - "translate_lakers.py"
+      - "polish_lakers.py"
       - ".github/workflows/update-lakers.yml"
   schedule:
     - cron: "37 */6 * * *"
@@ -26,7 +27,9 @@ jobs:
           python-version: "3.12"
 
       - name: Download and translate Lakers calendar
-        run: python translate_lakers.py
+        run: |
+          python translate_lakers.py
+          python polish_lakers.py
 
       - name: Commit updated calendar
         run: |
