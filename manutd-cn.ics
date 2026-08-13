@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Romino0//Manchester United Chinese Calendar//ZH-CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:曼联赛程（中文）
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VEVENT
+UID:manutd-cn-placeholder@romino0.github
+DTSTART;TZID=Asia/Shanghai:20260822T193000
+DTEND;TZID=Asia/Shanghai:20260822T213000
+SUMMARY:⚽ 赫尔城 vs 曼联
+DESCRIPTION:曼联中文赛程订阅源，自动更新程序将在 GitHub Actions 中同步曼联官方赛程。
+END:VEVENT
+END:VCALENDAR
