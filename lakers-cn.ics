@@ -1,0 +1,268 @@
+BEGIN:VCALENDAR
+PRODID:-//E-DIARY//E-DIARY 1.0//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:洛杉矶湖人赛程（中文）
+X-Built-On-Cache-Miss:true
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:大通中心\, 旧金山\, CA
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+DTSTART:20261031T020000Z
+DTEND:20261031T043000Z
+SUMMARY:🏀 洛杉矶湖人 @ 金州勇士
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7c99b154aa884cc92d1f0c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA杯\, West Group C  \n\n▶️ Watch live on Prime Video \
+ n\n🗣️ Join in #LakersvWarriors\n\nIt's NBA Cup Time! Don't miss the
+  thrilling action of the NBA杯. Watch every game live and on-demand wit
+ h NBA League Pass!\n\nTap to Watch\nhttps://ecal.ai/f/2nvsNS/3JsHK\n\nNB
+ A Store\nhttps://ecal.ai/f/2nvsP9/3JsHK\n\nNBA Stats\nhttps://ecal.ai/f/
+ 2nvsPr/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2nvsPW/3JsHK\n\nNBA 门票\nh
+ ttps://ecal.ai/f/2nvsQ9/3JsHK\n\nNBA Cup 101\nhttps://ecal.ai/f/2nvsQq/3
+ JsHK\n\nFacebook\nhttps://ecal.ai/f/2nvsQV/3JsHK\n\nX\nhttps://ecal.ai/f
+ /2nvsRc/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2nvsRs/3JsHK\n\nTikTok\nht
+ tps://ecal.ai/f/2nvsRM/3JsHK\n\nManage my ECAL\nhttps://ecal.ai/f/2nvsSz
+ /3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, CA
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+DTSTART:20261107T030000Z
+DTEND:20261107T053000Z
+SUMMARY:🏀 波特兰开拓者 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7c99b154aa884cc92d1f0d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA杯\, West Group C  \n\n▶️ Watch live on Prime Video \
+ n\n🗣️ Join in #BlazersvLakers\n\nTap to Watch\nhttps://ecal.ai/f/2n
+ vsSX/3JsHK\n\nNBA Store\nhttps://ecal.ai/f/2nvsTq/3JsHK\n\nNBA Stats\nht
+ tps://ecal.ai/f/2nvsTF/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2nvsTZ/3JsHK\
+ n\nNBA 门票\nhttps://ecal.ai/f/2nvsVl/3JsHK\n\nFacebook\nhttps://ecal.
+ ai/f/2nvsVK/3JsHK\n\nX\nhttps://ecal.ai/f/2nvsW1/3JsHK\n\nInstagram\nhtt
+ ps://ecal.ai/f/2nvsWl/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2nvsWB/3JsHK\n\
+ nManage my ECAL\nhttps://ecal.ai/f/2nvsXv/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, CA
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+DTSTART:20261121T030000Z
+DTEND:20261121T053000Z
+SUMMARY:🏀 萨克拉门托国王 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7c99b154aa884cc92d1f0e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA杯\, West Group C  \n\n▶️ Stream live with NBA League
+  Pass \n\n🗣️ Join in #KingsvLakers\n\nTap to Watch\nhttps://ecal.ai
+ /f/2nvsY3/3JsHK\n\nNBA Store\nhttps://ecal.ai/f/2nvsYH/3JsHK\n\nNBA Stat
+ s\nhttps://ecal.ai/f/2nvsZ3/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2nvsZq/3
+ JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2nvsZQ/3JsHK\n\nFacebook\nhttps://
+ ecal.ai/f/2nvt1p/3JsHK\n\nX\nhttps://ecal.ai/f/2nvt1K/3JsHK\n\nInstagram
+ \nhttps://ecal.ai/f/2nvt23/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2nvt2v/3Js
+ HK\n\nManage my ECAL\nhttps://ecal.ai/f/2nvt3x/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:弗罗斯特银行中心\, 圣安东尼奥\, TX
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+DTSTART:20261128T023000Z
+DTEND:20261128T050000Z
+SUMMARY:🏀 洛杉矶湖人 @ 圣安东尼奥马刺
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7c99b154aa884cc92d1f0f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA杯\, West Group C  \n\n▶️ Watch live on Prime Video \
+ n\n🗣️ Join in #LakersvSpurs\n\nTap to Watch\nhttps://ecal.ai/f/2nvt
+ 45/3JsHK\n\nNBA Store\nhttps://ecal.ai/f/2nvt4t/3JsHK\n\nNBA Stats\nhttp
+ s://ecal.ai/f/2nvt4P/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2nvt58/3JsHK\n\
+ nNBA 门票\nhttps://ecal.ai/f/2nvt5w/3JsHK\n\nFacebook\nhttps://ecal.ai
+ /f/2nvt5V/3JsHK\n\nX\nhttps://ecal.ai/f/2nvt68/3JsHK\n\nInstagram\nhttps
+ ://ecal.ai/f/2nvt6m/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2nvt6F/3JsHK\n\nM
+ anage my ECAL\nhttps://ecal.ai/f/2nvt7Y/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:大通中心\, 旧金山\, CA
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+DTSTART:20261007T020000Z
+DTEND:20261007T043000Z
+SUMMARY:🏀 洛杉矶湖人 @ 金州勇士
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a6ab71b54aa884cca7dbbb6
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:季前赛 \n\n▶️ Watch live on TBD\n\n📻 Listen live on
+  SiriusXM \n\n🗣️ Join in #LakersvWarriors\n\nTap to Watch\nhttps://
+ ecal.ai/f/2n8vNH/3JsHK\n\nNBA Store\nhttps://ecal.ai/f/2m5hX8/3JsHK\n\nN
+ BA Stats\nhttps://ecal.ai/f/2n8vNZ/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2
+ n8vP5/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2n8vPf/3JsHK\n\nFacebook\nh
+ ttps://ecal.ai/f/2m5hYv/3JsHK\n\nX\nhttps://ecal.ai/f/2m5hYT/3JsHK\n\nIn
+ stagram\nhttps://ecal.ai/f/2m5hZl/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2m5
+ hZP/3JsHK\n\nManage my ECAL\nhttps://ecal.ai/f/2m5j1Y/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, CA
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+DTSTART:20261022T020000Z
+DTEND:20261022T043000Z
+SUMMARY:🏀 金州勇士 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7b0fea54aa884cc83e45e9
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ Watch live on ESPN\n\n📻 Listen liv
+ e on SiriusXM \n\n🗣️ Join in #WarriorsvLakers\n\nTap to Watch\nhttp
+ s://ecal.ai/f/2nrmZ6/3JsHK\n\nNBA Store\nhttps://ecal.ai/f/2nrmZt/3JsHK\
+ n\nNBA Stats\nhttps://ecal.ai/f/2nrmZK/3JsHK\n\nNBA App\nhttps://ecal.ai
+ /f/2nrn14/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2nrn1g/3JsHK\n\nFaceboo
+ k\nhttps://ecal.ai/f/2nrn1Q/3JsHK\n\nX\nhttps://ecal.ai/f/2nrn2b/3JsHK\n
+ \nInstagram\nhttps://ecal.ai/f/2nrn2r/3JsHK\n\nTikTok\nhttps://ecal.ai/f
+ /2nrn2K/3JsHK\n\nManage my ECAL\nhttps://ecal.ai/f/2nrn3Q/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, CA
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+DTSTART:20261225T220000Z
+DTEND:20261226T003000Z
+SUMMARY:🏀 费城76人 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7b0fea54aa884cc83e45ea
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ Watch live on ABC\, ESPN\n\n📻 List
+ en live on SiriusXM \n\n🗣️ Join in #SixersvLakers\n\nTap to Watch\n
+ https://ecal.ai/f/2nrn4t/3JsHK\n\nNBA Store\nhttps://ecal.ai/f/2nrn4J/3J
+ sHK\n\nNBA Stats\nhttps://ecal.ai/f/2nrn51/3JsHK\n\nNBA App\nhttps://eca
+ l.ai/f/2nrn5h/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2nrn5z/3JsHK\n\nFac
+ ebook\nhttps://ecal.ai/f/2nrn68/3JsHK\n\nX\nhttps://ecal.ai/f/2nrn6r/3Js
+ HK\n\nInstagram\nhttps://ecal.ai/f/2nrn6H/3JsHK\n\nTikTok\nhttps://ecal.
+ ai/f/2nrn6V/3JsHK\n\nManage my ECAL\nhttps://ecal.ai/f/2nrn7N/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260813T091308Z
+DTSTAMP:20260813T091308Z
+LOCATION:Proudly powered by ECAL
+X-ECAL-SCHEDULE:6a7d89f7df2553000290a1e0
+DTSTART:20260813T092500Z
+DTEND:20260813T094000Z
+SUMMARY:Welcome to the NBA!
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7d89f7b9fb520002c51a22
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:You'll now have the most up-to-date info about events from th
+ e NBA.\n\nIf dates\, times or details change\, these will automatically 
+ update in your calendar. How good is that!\n\nWe hope you enjoy this ser
+ vice and welcome any feedback via our Support Centre https://support.eca
+ l.com \n------ \n\nThis service is powered by ECAL\, the world's leading
+  & most trusted calendar communications service.\n\nManage my ECAL\nhttp
+ s://ecal.ai/f/2nBphM/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-PT1M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+END:VCALENDAR
