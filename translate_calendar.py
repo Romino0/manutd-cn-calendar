@@ -4,10 +4,10 @@ from urllib.request import Request, urlopen
 SOURCE = "https://www.manutd.com/en/Manchester_United.ics"
 OUT = Path("manutd-cn.ics")
 
-# Manchester United's official calendar frequently uses short team names
-# (e.g. Man City, Spurs, Villa, Hull) instead of the clubs' full names.
-# Keep both the official-feed aliases and common full names here.
-REPLACEMENTS = {
+# Team and competition names used in SUMMARY / match DESCRIPTION.
+# The official Manchester United feed often uses short aliases rather than
+# full club names, so both forms are intentionally included.
+MATCH_REPLACEMENTS = {
     # Manchester United
     "Manchester United": "曼联",
     "Man United": "曼联",
@@ -27,7 +27,7 @@ REPLACEMENTS = {
     "Friendly Match": "友谊赛",
     "Friendly": "友谊赛",
 
-    # 2026/27 Premier League opponents: official-feed aliases + full names
+    # 2026/27 Premier League opponents
     "Manchester City": "曼城",
     "Man City": "曼城",
     "Hull City": "赫尔城",
@@ -62,7 +62,7 @@ REPLACEMENTS = {
     "Brighton and Hove Albion": "布莱顿",
     "Brighton": "布莱顿",
 
-    # Other common English clubs, for cup fixtures/future seasons
+    # Other English clubs for cup fixtures / future seasons
     "West Ham United": "西汉姆联",
     "West Ham": "西汉姆联",
     "Wolverhampton Wanderers": "狼队",
@@ -76,7 +76,7 @@ REPLACEMENTS = {
     "Luton Town": "卢顿",
     "Wrexham": "雷克瑟姆",
 
-    # Common European opponents / official-feed short forms
+    # Common European clubs / official-feed aliases
     "Real Madrid": "皇家马德里",
     "Barcelona": "巴塞罗那",
     "Atlético Madrid": "马德里竞技",
@@ -114,9 +114,14 @@ REPLACEMENTS = {
     "Monaco": "摩纳哥",
     "Lyon": "里昂",
     "Rosenborg": "罗森博格",
+}
 
-    # Stadiums / locations commonly used in the feed
+# Venue-specific translations. Keep these separate from team aliases so a
+# city such as Leeds is rendered as “利兹”, not the club name “利兹联”.
+LOCATION_REPLACEMENTS = {
+    # Stadiums
     "Tottenham Hotspur Stadium": "托特纳姆热刺球场",
+    "American Express Community Stadium": "美国运通社区球场",
     "American Express Stadium": "美国运通社区球场",
     "Coventry Building Society Arena": "考文垂建筑协会球场",
     "Hill Dickinson Stadium": "希尔·迪金森球场",
@@ -138,14 +143,46 @@ REPLACEMENTS = {
     "Amex Stadium": "美国运通社区球场",
     "Vitality Stadium": "活力球场",
     "MKM Stadium": "MKM球场",
+
+    # 2026/27 league cities / regions
+    "Newcastle upon Tyne": "泰恩河畔纽卡斯尔",
+    "West Yorkshire": "西约克郡",
+    "West Midlands": "西米德兰兹",
+    "Tyne and Wear": "泰恩-威尔郡",
+    "Merseyside": "默西塞德",
+    "Manchester": "曼彻斯特",
+    "Liverpool": "利物浦",
+    "Birmingham": "伯明翰",
+    "Nottingham": "诺丁汉",
+    "Bournemouth": "伯恩茅斯",
+    "Sunderland": "桑德兰",
+    "Coventry": "考文垂",
+    "Brighton": "布莱顿",
+    "London": "伦敦",
+    "Leeds": "利兹",
+    "Hull": "赫尔",
+
+    # Current pre-season venues
+    "Helsingin olympiastadion": "赫尔辛基奥林匹克体育场",
+    "Helsinki (Helsingfors)": "赫尔辛基",
+    "Lerkendal Stadion": "莱肯达尔球场",
+    "Trondheim": "特隆赫姆",
+    "Strawberry Arena": "草莓竞技场",
+    "Solna": "索尔纳",
+    "Nya Ullevi": "新乌利维球场",
+    "Göteborg": "哥德堡",
+    "Croke Park": "克罗克公园球场",
+    "Dublin": "都柏林",
+    "Tarczyński Arena": "塔尔琴斯基竞技场",
+    "Wrocław": "弗罗茨瓦夫",
 }
 
 
-def replace_terms(text: str) -> str:
+def replace_terms(text: str, mapping: dict[str, str]) -> str:
     # Longest first prevents partial matches such as Tottenham before
     # Tottenham Hotspur or Milan before AC Milan.
-    for src in sorted(REPLACEMENTS, key=len, reverse=True):
-        text = text.replace(src, REPLACEMENTS[src])
+    for src in sorted(mapping, key=len, reverse=True):
+        text = text.replace(src, mapping[src])
     return text
 
 
@@ -163,7 +200,7 @@ def unfold_ical(text: str) -> list[str]:
 
 
 def fold_ical_line(line: str, limit: int = 73) -> list[str]:
-    """Fold long lines without splitting a UTF-8 character."""
+    """Fold long iCalendar lines without splitting a UTF-8 character."""
     if len(line.encode("utf-8")) <= limit:
         return [line]
 
@@ -174,7 +211,7 @@ def fold_ical_line(line: str, limit: int = 73) -> list[str]:
 
     for ch in line:
         b = len(ch.encode("utf-8"))
-        allowed = limit if first else limit - 1  # continuation starts with a space
+        allowed = limit if first else limit - 1
         if current and current_bytes + b > allowed:
             chunks.append(current if first else " " + current)
             first = False
@@ -190,9 +227,10 @@ def fold_ical_line(line: str, limit: int = 73) -> list[str]:
 
 
 def translate_description(value: str) -> str:
-    value = replace_terms(value)
+    value = replace_terms(value, MATCH_REPLACEMENTS)
 
-    # Replace the official generic English disclaimer while retaining its URLs.
+    # Replace Manchester United's standard English disclaimer, but keep the
+    # official URLs so users can still jump to fixture, MUTV and ticket pages.
     marker = "\\n\\nAll dates subject to change."
     if marker in value:
         match_info = value.split(marker, 1)[0]
@@ -204,8 +242,7 @@ def translate_description(value: str) -> str:
             + "门票及贵宾服务：https://tickets.manutd.com。"
         )
 
-    value = value.replace("All dates subject to change.", "赛程日期及开球时间可能调整。")
-    return value
+    return value.replace("All dates subject to change.", "赛程日期及开球时间可能调整。")
 
 
 def translate_calendar(text: str) -> str:
@@ -218,7 +255,9 @@ def translate_calendar(text: str) -> str:
         if line.startswith("X-WR-CALNAME:"):
             line = "X-WR-CALNAME:曼联赛程（中文）"
         elif line.startswith("SUMMARY:"):
-            line = "SUMMARY:" + replace_terms(line[len("SUMMARY:"):])
+            line = "SUMMARY:" + replace_terms(
+                line[len("SUMMARY:"):], MATCH_REPLACEMENTS
+            )
         elif line.startswith("DESCRIPTION:"):
             value = line[len("DESCRIPTION:"):]
             if value == "Reminder":
@@ -227,11 +266,11 @@ def translate_calendar(text: str) -> str:
                 value = translate_description(value)
             line = "DESCRIPTION:" + value
         elif line.startswith("LOCATION:"):
-            line = "LOCATION:" + replace_terms(line[len("LOCATION:"):])
-        else:
-            # Keep metadata, URLs, UID, date/time and alarms unchanged. Only
-            # translate any clearly display-oriented competition/team text.
-            line = replace_terms(line)
+            line = "LOCATION:" + replace_terms(
+                line[len("LOCATION:"):], LOCATION_REPLACEMENTS
+            )
+        # UID, DTSTART/DTEND, SEQUENCE and other machine-readable metadata are
+        # deliberately left untouched so subscriptions update correctly.
 
         output.extend(fold_ical_line(line))
 
