@@ -1,5 +1,6 @@
 from pathlib import Path
 from urllib.request import Request, urlopen
+import re
 
 SOURCE = "https://www.manutd.com/en/Manchester_United.ics"
 OUT = Path("manutd-cn.ics")
@@ -27,7 +28,7 @@ MATCH_REPLACEMENTS = {
     "Friendly Match": "友谊赛",
     "Friendly": "友谊赛",
 
-    # 2026/27 Premier League opponents
+    # 2026/27 Premier League opponents and actual aliases used by the feed
     "Manchester City": "曼城",
     "Man City": "曼城",
     "Hull City": "赫尔城",
@@ -53,10 +54,13 @@ MATCH_REPLACEMENTS = {
     "Coventry City": "考文垂",
     "Coventry": "考文垂",
     "Crystal Palace": "水晶宫",
+    "Palace": "水晶宫",
     "Arsenal": "阿森纳",
     "Nottingham Forest": "诺丁汉森林",
     "Nott'm Forest": "诺丁汉森林",
     "Nottm Forest": "诺丁汉森林",
+    "Nott Forest": "诺丁汉森林",
+    "Forest": "诺丁汉森林",
     "Sunderland": "桑德兰",
     "Brighton & Hove Albion": "布莱顿",
     "Brighton and Hove Albion": "布莱顿",
@@ -143,13 +147,19 @@ LOCATION_REPLACEMENTS = {
     "Amex Stadium": "美国运通社区球场",
     "Vitality Stadium": "活力球场",
     "MKM Stadium": "MKM球场",
+    "Portman Road": "波特曼路球场",
 
     # 2026/27 league cities / regions
     "Newcastle upon Tyne": "泰恩河畔纽卡斯尔",
     "West Yorkshire": "西约克郡",
     "West Midlands": "西米德兰兹",
+    "East Sussex": "东萨塞克斯郡",
     "Tyne and Wear": "泰恩-威尔郡",
     "Merseyside": "默西塞德",
+    "Middlesex": "米德尔塞克斯郡",
+    "Nottinghamshire": "诺丁汉郡",
+    "Suffolk": "萨福克郡",
+    "Dorset": "多塞特郡",
     "Manchester": "曼彻斯特",
     "Liverpool": "利物浦",
     "Birmingham": "伯明翰",
@@ -158,6 +168,9 @@ LOCATION_REPLACEMENTS = {
     "Sunderland": "桑德兰",
     "Coventry": "考文垂",
     "Brighton": "布莱顿",
+    "Falmer": "法尔默",
+    "Brentford": "布伦特福德",
+    "Ipswich": "伊普斯维奇",
     "London": "伦敦",
     "Leeds": "利兹",
     "Hull": "赫尔",
@@ -245,6 +258,18 @@ def translate_description(value: str) -> str:
     return value.replace("All dates subject to change.", "赛程日期及开球时间可能调整。")
 
 
+def validate_premier_league_summaries(logical_lines: list[str]) -> None:
+    """Fail if a Premier League title still contains an untranslated English team name."""
+    for line in logical_lines:
+        if not line.startswith("SUMMARY:") or "英格兰超级联赛" not in line:
+            continue
+        # 'vs' is intentionally retained as the matchup separator. Remove it,
+        # then any remaining ASCII letters indicate an untranslated alias.
+        check = line.replace("SUMMARY:", "").replace("vs", "")
+        if re.search(r"[A-Za-z]", check):
+            raise RuntimeError(f"Untranslated Premier League team alias remains: {line}")
+
+
 def translate_calendar(text: str) -> str:
     output: list[str] = []
 
@@ -274,7 +299,9 @@ def translate_calendar(text: str) -> str:
 
         output.extend(fold_ical_line(line))
 
-    return "\r\n".join(output) + "\r\n"
+    translated = "\r\n".join(output) + "\r\n"
+    validate_premier_league_summaries(unfold_ical(translated))
+    return translated
 
 
 def main() -> None:
