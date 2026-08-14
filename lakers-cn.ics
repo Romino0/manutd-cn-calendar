@@ -1784,40 +1784,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:巴克莱中心\, 布鲁克林\, 纽约州
-X-ECAL-SCHEDULE:
-DTSTART:20270205T003000Z
-DTEND:20270205T030000Z
-SUMMARY:🏀 洛杉矶湖人 @ 布鲁克林篮网
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa8848ac4b21dd
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n📻 收听直播：SiriusXM \n\n🗣️ 参
- 与话题 #LakersvNets\n\n点击观看\nhttps://ecal.ai/f/2pQWXx/3JsHK\n
- \nNBA商店\nhttps://ecal.ai/f/2pQWYg/3JsHK\n\nNBA数据\nhttps://ecal.a
- i/f/2pQWYQ/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQWZr/3JsHK\n\nNBA 门
- 票\nhttps://ecal.ai/f/2pQWZY/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2pQX2
- b/3JsHK\n\nX\nhttps://ecal.ai/f/2pQX2W/3JsHK\n\nInstagram\nhttps://ecal.
- ai/f/2pQX3H/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQX4k/3JsHK\n\n管理我
- 的 ECAL\nhttps://ecal.ai/f/2pQX6s/3JsHK\n\n
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:弗罗斯特银行中心\, 圣安东尼奥\, 德克萨斯州
 X-ECAL-SCHEDULE:
 DTSTART:20270207T013000Z
@@ -2186,40 +2152,6 @@ DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ABC\n\n📻 收听直
  i/f/2pQYYz/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQYZ8/3JsHK\n\nTikTok\
  nhttps://ecal.ai/f/2pQYZY/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/
  2pQZ39/3JsHK\n\n
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
-X-ECAL-SCHEDULE:
-DTSTART:20270308T033000Z
-DTEND:20270308T060000Z
-SUMMARY:🏀 布鲁克林篮网 @ 洛杉矶湖人
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa8848ac4b21e4
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n📻 收听直播：SiriusXM \n\n🗣️ 参
- 与话题 #NetsvLakers\n\n点击观看\nhttps://ecal.ai/f/2pQZ3V/3JsHK\n
- \nNBA商店\nhttps://ecal.ai/f/2pQZ4y/3JsHK\n\nNBA数据\nhttps://ecal.a
- i/f/2pQZ5w/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQZ61/3JsHK\n\nNBA 门
- 票\nhttps://ecal.ai/f/2pQZ6R/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2pQZ7
- L/3JsHK\n\nX\nhttps://ecal.ai/f/2pQZ8n/3JsHK\n\nInstagram\nhttps://ecal.
- ai/f/2pQZ8X/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQZ9G/3JsHK\n\n管理我
- 的 ECAL\nhttps://ecal.ai/f/2pQZcH/3JsHK\n\n
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 BEGIN:VALARM
 TRIGGER:-P1DT
@@ -2806,6 +2738,76 @@ DESCRIPTION:NBA常规赛 \n\n📻 收听直播：SiriusXM \n\n🗣️ 参
  F/3JsHK\n\nX\nhttps://ecal.ai/f/2pR3lr/3JsHK\n\nInstagram\nhttps://ecal.
  ai/f/2pR3mk/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pR3n6/3JsHK\n\n管理我
  的 ECAL\nhttps://ecal.ai/f/2pR3rD/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20270308T033000Z
+DTEND:20270308T060000Z
+SUMMARY:🏀 布鲁克林篮网 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa8848ac4b21e4
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：YES on Gotham\n\n📻 
+ 收听直播：SiriusXM \n\n🗣️ 参与话题 #NetsvLakers\n\n点击
+ 观看\nhttps://ecal.ai/f/2pQZ3V/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2
+ pQZ4y/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQZ5w/3JsHK\n\nNBA App\nhtt
+ ps://ecal.ai/f/2pQZ61/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQZ6R/3JsH
+ K\n\nFacebook\nhttps://ecal.ai/f/2pQZ7L/3JsHK\n\nX\nhttps://ecal.ai/f/2p
+ QZ8n/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQZ8X/3JsHK\n\nTikTok\nhttps
+ ://ecal.ai/f/2pQZ9G/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQZcH
+ /3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:巴克莱中心\, 布鲁克林\, 纽约州
+X-ECAL-SCHEDULE:
+DTSTART:20270205T003000Z
+DTEND:20270205T030000Z
+SUMMARY:🏀 洛杉矶湖人 @ 布鲁克林篮网
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa8848ac4b21dd
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：YES on Gotham\n\n📻 
+ 收听直播：SiriusXM \n\n🗣️ 参与话题 #LakersvNets\n\n点击
+ 观看\nhttps://ecal.ai/f/2pQWXx/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2
+ pQWYg/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQWYQ/3JsHK\n\nNBA App\nhtt
+ ps://ecal.ai/f/2pQWZr/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQWZY/3JsH
+ K\n\nFacebook\nhttps://ecal.ai/f/2pQX2b/3JsHK\n\nX\nhttps://ecal.ai/f/2p
+ QX2W/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQX3H/3JsHK\n\nTikTok\nhttps
+ ://ecal.ai/f/2pQX4k/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQX6s
+ /3JsHK\n\n
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 BEGIN:VALARM
 TRIGGER:-P1DT
