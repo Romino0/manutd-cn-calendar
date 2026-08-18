@@ -2820,4 +2820,144 @@ ACTION:DISPLAY
 DESCRIPTION:比赛提醒
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20261009T023000Z
+DTEND:20261009T050000Z
+SUMMARY:🏀 萨克拉门托国王 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a8352cd54aa884dbe07334d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:季前赛 \n\n▶️ 观看直播：待定\n\n📻 收听直
+ 播：SiriusXM \n\n🗣️ 参与话题 #KingsvLakers\n\n点击观看\nh
+ ttps://ecal.ai/f/2qsCh3/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2qsChb/3Js
+ HK\n\nNBA数据\nhttps://ecal.ai/f/2qsChl/3JsHK\n\nNBA App\nhttps://ecal
+ .ai/f/2qsChv/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2qsChF/3JsHK\n\nFace
+ book\nhttps://ecal.ai/f/2qsChS/3JsHK\n\nX\nhttps://ecal.ai/f/2qsCj1/3JsH
+ K\n\nInstagram\nhttps://ecal.ai/f/2qsCj8/3JsHK\n\nTikTok\nhttps://ecal.a
+ i/f/2qsCjg/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2qsCjy/3JsHK\n\
+ n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:黄金一号中心\, 萨克拉门托\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20261006T020000Z
+DTEND:20261006T043000Z
+SUMMARY:🏀 洛杉矶湖人 @ 萨克拉门托国王
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a8352cd54aa8848aa16a332
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:季前赛 \n\n▶️ 观看直播：待定\n\n📻 收听直
+ 播：SiriusXM \n\n🗣️ 参与话题 #LakersvKings\n\n点击观看\nh
+ ttps://ecal.ai/f/2qsCjH/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2qsCjM/3Js
+ HK\n\nNBA数据\nhttps://ecal.ai/f/2qsCjS/3JsHK\n\nNBA App\nhttps://ecal
+ .ai/f/2qsCjZ/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2qsCk4/3JsHK\n\nFace
+ book\nhttps://ecal.ai/f/2qsCk8/3JsHK\n\nX\nhttps://ecal.ai/f/2qsCkc/3JsH
+ K\n\nInstagram\nhttps://ecal.ai/f/2qsCkj/3JsHK\n\nTikTok\nhttps://ecal.a
+ i/f/2qsCkp/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2qsCkC/3JsHK\n\
+ n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:T-Mobile Arena\, Las Vegas\, 内华达州
+X-ECAL-SCHEDULE:
+DTSTART:20261014T020000Z
+DTEND:20261014T043000Z
+SUMMARY:🏀 金州勇士 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a8352cd54aa884cc92e6266
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:季前赛 \n\n▶️ 观看直播：待定\n\n📻 收听直
+ 播：SiriusXM \n\n🗣️ 参与话题 #WarriorsvLakers\n\n点击观看
+ \nhttps://ecal.ai/f/2qsClb/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2qsClh/
+ 3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2qsClp/3JsHK\n\nNBA App\nhttps://e
+ cal.ai/f/2qsCls/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2qsClx/3JsHK\n\nF
+ acebook\nhttps://ecal.ai/f/2qsClF/3JsHK\n\nX\nhttps://ecal.ai/f/2qsClL/3
+ JsHK\n\nInstagram\nhttps://ecal.ai/f/2qsClR/3JsHK\n\nTikTok\nhttps://eca
+ l.ai/f/2qsClV/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2qsCm8/3JsHK
+ \n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20261017T023000Z
+DTEND:20261017T050000Z
+SUMMARY:🏀 丹佛掘金 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a8352cd54aa88426515750a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:季前赛 \n\n▶️ 观看直播：待定\n\n📻 收听直
+ 播：SiriusXM \n\n🗣️ 参与话题 #NuggetsvLakers\n\n点击观看\
+ nhttps://ecal.ai/f/2qsCmj/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2qsCmt/3
+ JsHK\n\nNBA数据\nhttps://ecal.ai/f/2qsCmz/3JsHK\n\nNBA App\nhttps://ec
+ al.ai/f/2qsCmG/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2qsCmK/3JsHK\n\nFa
+ cebook\nhttps://ecal.ai/f/2qsCmQ/3JsHK\n\nX\nhttps://ecal.ai/f/2qsCmT/3J
+ sHK\n\nInstagram\nhttps://ecal.ai/f/2qsCn1/3JsHK\n\nTikTok\nhttps://ecal
+ .ai/f/2qsCn6/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2qsCnp/3JsHK\
+ n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
 END:VCALENDAR
