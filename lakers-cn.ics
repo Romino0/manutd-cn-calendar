@@ -488,40 +488,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:20260922T213824Z
 DTSTAMP:20260922T213824Z
-LOCATION:波尔球馆\, 丹佛\, 科罗拉多州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20261220T020000Z
-DTEND:20261220T043000Z
-SUMMARY:🏀 洛杉矶湖人 @ 丹佛掘金
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30cd54aa884dc5570ab6
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：NBA TV\, Spectrum Spor
- tsNet\n\n📻 收听直播：SiriusXM\, ESPN LA 710/980 KFWB \n\n🗣️
-  参与话题 #LakersvNuggets\n\n点击观看\nhttps://ecal.ai/f/2pQRRr/
- 3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQRRR/3JsHK\n\nNBA数据\nhttps:/
- /ecal.ai/f/2pQRSF/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQRTh/3JsHK\n\nNB
- A 门票\nhttps://ecal.ai/f/2pQRTW/3JsHK\n\nFacebook\nhttps://ecal.ai/f/
- 2pQRVG/3JsHK\n\nX\nhttps://ecal.ai/f/2pQRWy/3JsHK\n\nInstagram\nhttps://
- ecal.ai/f/2pQRXm/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQRY4/3JsHK\n\n管
- 理我的 ECAL\nhttps://ecal.ai/f/2pQS1w/3JsHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260922T213824Z
-DTSTAMP:20260922T213824Z
 LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 DTSTART:20261224T030000Z
@@ -2668,74 +2634,6 @@ LAST-MODIFIED:20260922T213824Z
 DTSTAMP:20260922T213824Z
 LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20270213T033000Z
-DTEND:20270213T060000Z
-SUMMARY:🏀 丹佛掘金 @ 洛杉矶湖人
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa884dc5570ac6
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ESPN\, Spectrum Sports
- Net\n\n📻 收听直播：SiriusXM\, ESPN LA 710/980 KFWB \n\n🗣️ 
- 参与话题 #NuggetsvLakers\n\n点击观看\nhttps://ecal.ai/f/2pQXth/3
- JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQXtP/3JsHK\n\nNBA数据\nhttps://
- ecal.ai/f/2pQXvz/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQXwf/3JsHK\n\nNBA
-  门票\nhttps://ecal.ai/f/2pQXx1/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2
- pQXys/3JsHK\n\nX\nhttps://ecal.ai/f/2pQXzd/3JsHK\n\nInstagram\nhttps://e
- cal.ai/f/2pQXzX/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQXBP/3JsHK\n\n管
- 理我的 ECAL\nhttps://ecal.ai/f/2pQXDW/3JsHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260922T213824Z
-DTSTAMP:20260922T213824Z
-LOCATION:波尔球馆\, 丹佛\, 科罗拉多州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20270227T030000Z
-DTEND:20270227T053000Z
-SUMMARY:🏀 洛杉矶湖人 @ 丹佛掘金
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa8848ac4b21e0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ESPN\, Spectrum Sports
- Net\n\n📻 收听直播：SiriusXM\, ESPN LA 710/980 KFWB \n\n🗣️ 
- 参与话题 #LakersvNuggets\n\n点击观看\nhttps://ecal.ai/f/2pQY9G/3
- JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQY9W/3JsHK\n\nNBA数据\nhttps://
- ecal.ai/f/2pQYbs/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQYcd/3JsHK\n\nNBA
-  门票\nhttps://ecal.ai/f/2pQYcP/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2
- pQYdP/3JsHK\n\nX\nhttps://ecal.ai/f/2pQYft/3JsHK\n\nInstagram\nhttps://e
- cal.ai/f/2pQYgb/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQYgN/3JsHK\n\n管
- 理我的 ECAL\nhttps://ecal.ai/f/2pQYjM/3JsHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260922T213824Z
-DTSTAMP:20260922T213824Z
-LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 DTSTART:20270219T030000Z
 DTEND:20270219T053000Z
 SUMMARY:🏀 休斯顿火箭 @ 洛杉矶湖人
@@ -2890,6 +2788,111 @@ DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\n\n
  HK\n\nX\nhttps://ecal.ai/f/2pR3lr/3JsHK\n\nInstagram\nhttps://ecal.ai/f/
  2pR3mk/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pR3n6/3JsHK\n\n管理我的 E
  CAL\nhttps://ecal.ai/f/2pR3rD/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:波尔球馆\, 丹佛\, 科罗拉多州
+X-ECAL-SCHEDULE:
+DTSTART:20261220T020000Z
+DTEND:20261220T043000Z
+SUMMARY:🏀 洛杉矶湖人 @ 丹佛掘金
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30cd54aa884dc5570ab6
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：NBA TV\, ALT/ALT+/KTVD
+ \, Spectrum SportsNet\n\n📻 收听直播：SiriusXM\, ESPN LA 710/980 
+ KFWB \n\n🗣️ 参与话题 #LakersvNuggets\n\n点击观看\nhttps://e
+ cal.ai/f/2pQRRr/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQRRR/3JsHK\n\nNB
+ A数据\nhttps://ecal.ai/f/2pQRSF/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2p
+ QRTh/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQRTW/3JsHK\n\nFacebook\nht
+ tps://ecal.ai/f/2pQRVG/3JsHK\n\nX\nhttps://ecal.ai/f/2pQRWy/3JsHK\n\nIns
+ tagram\nhttps://ecal.ai/f/2pQRXm/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQR
+ Y4/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQS1w/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20270213T033000Z
+DTEND:20270213T060000Z
+SUMMARY:🏀 丹佛掘金 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa884dc5570ac6
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ESPN\, Spectrum Sports
+ Net\, Altitude/Altitude+\n\n📻 收听直播：SiriusXM\, ESPN LA 710/9
+ 80 KFWB \n\n🗣️ 参与话题 #NuggetsvLakers\n\n点击观看\nhttps:
+ //ecal.ai/f/2pQXth/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQXtP/3JsHK\n\
+ nNBA数据\nhttps://ecal.ai/f/2pQXvz/3JsHK\n\nNBA App\nhttps://ecal.ai/f
+ /2pQXwf/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQXx1/3JsHK\n\nFacebook\
+ nhttps://ecal.ai/f/2pQXys/3JsHK\n\nX\nhttps://ecal.ai/f/2pQXzd/3JsHK\n\n
+ Instagram\nhttps://ecal.ai/f/2pQXzX/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2
+ pQXBP/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQXDW/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:波尔球馆\, 丹佛\, 科罗拉多州
+X-ECAL-SCHEDULE:
+DTSTART:20270227T030000Z
+DTEND:20270227T053000Z
+SUMMARY:🏀 洛杉矶湖人 @ 丹佛掘金
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa8848ac4b21e0
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ESPN\, Altitude/Altitu
+ de+\, Spectrum SportsNet\n\n📻 收听直播：SiriusXM\, ESPN LA 710/9
+ 80 KFWB \n\n🗣️ 参与话题 #LakersvNuggets\n\n点击观看\nhttps:
+ //ecal.ai/f/2pQY9G/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQY9W/3JsHK\n\
+ nNBA数据\nhttps://ecal.ai/f/2pQYbs/3JsHK\n\nNBA App\nhttps://ecal.ai/f
+ /2pQYcd/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQYcP/3JsHK\n\nFacebook\
+ nhttps://ecal.ai/f/2pQYdP/3JsHK\n\nX\nhttps://ecal.ai/f/2pQYft/3JsHK\n\n
+ Instagram\nhttps://ecal.ai/f/2pQYgb/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2
+ pQYgN/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQYjM/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 BEGIN:VALARM
 TRIGGER:-P1DT
 ACTION:DISPLAY
