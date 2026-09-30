@@ -862,41 +862,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:20260922T213824Z
 DTSTAMP:20260922T213824Z
-LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20270127T040000Z
-DTEND:20270127T063000Z
-SUMMARY:🏀 俄克拉荷马雷霆 @ 洛杉矶湖人
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30cd54aa884dc5570ac0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 AWS NBA Rivals Week  \n\n▶️ 观看直播：N
- BC\, Peacock\, Spectrum SportsNet\n\n📻 收听直播：SiriusXM\, ESPN
-  LA 710/980 KFWB \n\n🗣️ 参与话题 #ThundervLakers\n\n点击观
- 看\nhttps://ecal.ai/f/2pQW5p/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQW
- 5P/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQW6t/3JsHK\n\nNBA App\nhttps:
- //ecal.ai/f/2pQW72/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQW7G/3JsHK\n
- \nFacebook\nhttps://ecal.ai/f/2pQW8L/3JsHK\n\nX\nhttps://ecal.ai/f/2pQW9
- h/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQWb5/3JsHK\n\nTikTok\nhttps://
- ecal.ai/f/2pQWbL/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQWdt/3J
- sHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260922T213824Z
-DTSTAMP:20260922T213824Z
 LOCATION:盖恩布里奇球馆\, 印第安纳波利斯\, 印第安纳州
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 DTSTART:20270129T000000Z
@@ -1273,40 +1238,6 @@ LAST-MODIFIED:20260922T213824Z
 DTSTAMP:20260922T213824Z
 LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20270307T013000Z
-DTEND:20270307T040000Z
-SUMMARY:🏀 俄克拉荷马雷霆 @ 洛杉矶湖人
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa8848ac4b21e3
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ABC\n\n📻 收听直
- 播：ESPN Radio\, SiriusXM\, ESPN LA 710/980 KFWB \n\n🗣️ 参与话
- 题 #ThundervLakers\n\n点击观看\nhttps://ecal.ai/f/2pQYSF/3JsHK\n\nN
- BA商店\nhttps://ecal.ai/f/2pQYVg/3JsHK\n\nNBA数据\nhttps://ecal.ai/f
- /2pQYVX/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQYWD/3JsHK\n\nNBA 门票\n
- https://ecal.ai/f/2pQYX8/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2pQYY4/3Js
- HK\n\nX\nhttps://ecal.ai/f/2pQYYz/3JsHK\n\nInstagram\nhttps://ecal.ai/f/
- 2pQYZ8/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQYZY/3JsHK\n\n管理我的 E
- CAL\nhttps://ecal.ai/f/2pQZ39/3JsHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260922T213824Z
-DTSTAMP:20260922T213824Z
-LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 DTSTART:20270308T033000Z
 DTEND:20270308T060000Z
 SUMMARY:🏀 布鲁克林篮网 @ 洛杉矶湖人
@@ -1462,40 +1393,6 @@ DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：NBC\, Peacock\, WPLG L
  C/3JsHK\n\nX\nhttps://ecal.ai/f/2pR1Cg/3JsHK\n\nInstagram\nhttps://ecal.
  ai/f/2pR1CW/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pR1DK/3JsHK\n\n管理我
  的 ECAL\nhttps://ecal.ai/f/2pR1H3/3JsHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20260922T213824Z
-DTSTAMP:20260922T213824Z
-LOCATION:Paycom中心\, 俄克拉荷马城\, 俄克拉荷马州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20270402T013000Z
-DTEND:20270402T040000Z
-SUMMARY:🏀 洛杉矶湖人 @ 俄克拉荷马雷霆
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa8848ac4b21ea
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Prime Video\, Spectrum
-  SportsNet\n\n📻 收听直播：ESPN Radio\, SiriusXM\, ESPN LA 710/98
- 0 KFWB \n\n🗣️ 参与话题 #LakersvThunder\n\n点击观看\nhttps:/
- /ecal.ai/f/2pR2dD/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pR2fg/3JsHK\n\n
- NBA数据\nhttps://ecal.ai/f/2pR2g5/3JsHK\n\nNBA App\nhttps://ecal.ai/f/
- 2pR2gT/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pR2hv/3JsHK\n\nFacebook\n
- https://ecal.ai/f/2pR2k9/3JsHK\n\nX\nhttps://ecal.ai/f/2pR2kD/3JsHK\n\nI
- nstagram\nhttps://ecal.ai/f/2pR2lg/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2p
- R2mf/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pR2pL/3JsHK\n\n
 BEGIN:VALARM
 TRIGGER:-P1DT
 ACTION:DISPLAY
@@ -2894,6 +2791,115 @@ DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\, C
  ps://ecal.ai/f/2pQXV9/3JsHK\n\nX\nhttps://ecal.ai/f/2pQXVG/3JsHK\n\nInst
  agram\nhttps://ecal.ai/f/2pQXWg/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQXW
  X/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQXZn/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20270127T040000Z
+DTEND:20270127T063000Z
+SUMMARY:🏀 俄克拉荷马雷霆 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30cd54aa884dc5570ac0
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 AWS NBA Rivals Week  \n\n▶️ 观看直播：N
+ BC\, Peacock\, Spectrum SportsNet\, KSBI 俄克拉荷马雷霆\, 俄克
+ 拉荷马雷霆+\n\n📻 收听直播：SiriusXM\, ESPN LA 710/980 KFWB\
+ , WWLS 98.1FM 俄克拉荷马雷霆 \n\n🗣️ 参与话题 #ThundervLa
+ kers\n\n点击观看\nhttps://ecal.ai/f/2pQW5p/3JsHK\n\nNBA商店\nhttps
+ ://ecal.ai/f/2pQW5P/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQW6t/3JsHK\n
+ \nNBA App\nhttps://ecal.ai/f/2pQW72/3JsHK\n\nNBA 门票\nhttps://ecal.ai
+ /f/2pQW7G/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2pQW8L/3JsHK\n\nX\nhttps:
+ //ecal.ai/f/2pQW9h/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQWb5/3JsHK\n\
+ nTikTok\nhttps://ecal.ai/f/2pQWbL/3JsHK\n\n管理我的 ECAL\nhttps://ec
+ al.ai/f/2pQWdt/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Paycom中心\, 俄克拉荷马城\, 俄克拉荷马州
+X-ECAL-SCHEDULE:
+DTSTART:20270402T013000Z
+DTEND:20270402T040000Z
+SUMMARY:🏀 洛杉矶湖人 @ 俄克拉荷马雷霆
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa8848ac4b21ea
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Prime Video\, Spectrum
+  SportsNet\n\n📻 收听直播：ESPN Radio\, SiriusXM\, WWLS/WKY\, ESP
+ N LA 710/980 KFWB \n\n🗣️ 参与话题 #LakersvThunder\n\n点击观
+ 看\nhttps://ecal.ai/f/2pR2dD/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pR2
+ fg/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pR2g5/3JsHK\n\nNBA App\nhttps:
+ //ecal.ai/f/2pR2gT/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pR2hv/3JsHK\n
+ \nFacebook\nhttps://ecal.ai/f/2pR2k9/3JsHK\n\nX\nhttps://ecal.ai/f/2pR2k
+ D/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pR2lg/3JsHK\n\nTikTok\nhttps://
+ ecal.ai/f/2pR2mf/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pR2pL/3J
+ sHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20270307T013000Z
+DTEND:20270307T040000Z
+SUMMARY:🏀 俄克拉荷马雷霆 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa8848ac4b21e3
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ABC\n\n📻 收听直
+ 播：ESPN Radio\, SiriusXM\, ESPN LA 710/980 KFWB\, WWLS 98.1FM 俄克
+ 拉荷马雷霆 \n\n🗣️ 参与话题 #ThundervLakers\n\n点击观看
+ \nhttps://ecal.ai/f/2pQYSF/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQYVg/
+ 3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQYVX/3JsHK\n\nNBA App\nhttps://e
+ cal.ai/f/2pQYWD/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQYX8/3JsHK\n\nF
+ acebook\nhttps://ecal.ai/f/2pQYY4/3JsHK\n\nX\nhttps://ecal.ai/f/2pQYYz/3
+ JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQYZ8/3JsHK\n\nTikTok\nhttps://eca
+ l.ai/f/2pQYZY/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQZ39/3JsHK
+ \n\n
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 BEGIN:VALARM
 TRIGGER:-P1DT
