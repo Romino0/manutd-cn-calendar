@@ -1051,41 +1051,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Mortgage Matchup Center\, 菲尼克斯\, 亚利桑那州
-X-ECAL-SCHEDULE:
-DTSTART:20261115T210000Z
-DTEND:20261115T233000Z
-SUMMARY:🏀 洛杉矶湖人 @ 菲尼克斯太阳
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30cd54aa884dc5570ab0
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\, S
- pectrum SportsNet+\n\n📻 收听直播：SiriusXM\, ESPN LA 710/980 KFW
- B \n\n🗣️ 参与话题 #LakersvSuns\n\n点击观看\nhttps://ecal.ai
- /f/2pQPQN/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQPSz/3JsHK\n\nNBA数
- 据\nhttps://ecal.ai/f/2pQPTk/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQPV8
- /3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQPVG/3JsHK\n\nFacebook\nhttps:
- //ecal.ai/f/2pQPWD/3JsHK\n\nX\nhttps://ecal.ai/f/2pQPXz/3JsHK\n\nInstagr
- am\nhttps://ecal.ai/f/2pQPYb/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQPYX/3
- JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQQ2c/3JsHK\n\n
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
 X-ECAL-SCHEDULE:
 DTSTART:20261118T030000Z
@@ -1969,42 +1934,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Mortgage Matchup Center\, 菲尼克斯\, 亚利桑那州
-X-ECAL-SCHEDULE:
-DTSTART:20270209T023000Z
-DTEND:20270209T050000Z
-SUMMARY:🏀 洛杉矶湖人 @ 菲尼克斯太阳
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa884dc5570ac5
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：NBC Sports Network\, P
- eacock\, Spectrum SportsNet\, Spectrum SportsNet+\n\n📻 收听直播
- ：SiriusXM\, ESPN LA 710/980 KFWB \n\n🗣️ 参与话题 #LakersvSuns
- \n\n点击观看\nhttps://ecal.ai/f/2pQXjh/3JsHK\n\nNBA商店\nhttps://e
- cal.ai/f/2pQXjS/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQXkw/3JsHK\n\nNB
- A App\nhttps://ecal.ai/f/2pQXl6/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2
- pQXlK/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2pQXmW/3JsHK\n\nX\nhttps://ec
- al.ai/f/2pQXnq/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQXp3/3JsHK\n\nTik
- Tok\nhttps://ecal.ai/f/2pQXpH/3JsHK\n\n管理我的 ECAL\nhttps://ecal.a
- i/f/2pQXrC/3JsHK\n\n
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
 X-ECAL-SCHEDULE:
 DTSTART:20270213T033000Z
@@ -2275,41 +2204,6 @@ DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：KUNP\, Spectrum Sports
  nX\nhttps://ecal.ai/f/2pQZJ7/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQZJ
  N/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQZKy/3JsHK\n\n管理我的 ECAL\n
  https://ecal.ai/f/2pQZMF/3JsHK\n\n
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
-LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
-X-ECAL-SCHEDULE:
-DTSTART:20270318T020000Z
-DTEND:20270318T043000Z
-SUMMARY:🏀 菲尼克斯太阳 @ 洛杉矶湖人
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa884dc5570acc
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ESPN\, Spectrum Sports
- Net\, Spectrum SportsNet+\n\n📻 收听直播：SiriusXM\, ESPN LA 710/
- 980 KFWB \n\n🗣️ 参与话题 #SunsvLakers\n\n点击观看\nhttps://
- ecal.ai/f/2pQZYx/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQZZ7/3JsHK\n\nN
- BA数据\nhttps://ecal.ai/f/2pQZZP/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2
- pR11v/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pR128/3JsHK\n\nFacebook\nh
- ttps://ecal.ai/f/2pR13m/3JsHK\n\nX\nhttps://ecal.ai/f/2pR14g/3JsHK\n\nIn
- stagram\nhttps://ecal.ai/f/2pR14G/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pR
- 15b/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pR17f/3JsHK\n\n
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 BEGIN:VALARM
 TRIGGER:-P1DT
@@ -2818,41 +2712,6 @@ END:VEVENT
 BEGIN:VEVENT
 LAST-MODIFIED:00010101T000000Z
 DTSTAMP:00010101T000000Z
-LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
-X-ECAL-SCHEDULE:
-DTSTART:20270412T003000Z
-DTEND:20270412T030000Z
-SUMMARY:🏀 菲尼克斯太阳 @ 洛杉矶湖人
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30ce54aa884dc5570ad1
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\, S
- pectrum SportsNet+\n\n📻 收听直播：SiriusXM\, ESPN LA 710/980 KFW
- B \n\n🗣️ 参与话题 #SunsvLakers\n\n点击观看\nhttps://ecal.ai
- /f/2pR3gz/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pR3hh/3JsHK\n\nNBA数
- 据\nhttps://ecal.ai/f/2pR3hG/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pR3jc
- /3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pR3jN/3JsHK\n\nFacebook\nhttps:
- //ecal.ai/f/2pR3kF/3JsHK\n\nX\nhttps://ecal.ai/f/2pR3lr/3JsHK\n\nInstagr
- am\nhttps://ecal.ai/f/2pR3mk/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pR3n6/3
- JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pR3rD/3JsHK\n\n
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:00010101T000000Z
-DTSTAMP:00010101T000000Z
 LOCATION:黄金一号中心\, 萨克拉门托\, 加利福尼亚州
 X-ECAL-SCHEDULE:
 DTSTART:20261006T020000Z
@@ -2984,6 +2843,151 @@ DESCRIPTION:季前赛 \n\n▶️ 观看直播：NBA TV\, Spectrum SportsN
  /2qsClL/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2qsClR/3JsHK\n\nTikTok\nht
  tps://ecal.ai/f/2qsClV/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2qs
  Cm8/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Mortgage Matchup Center\, 菲尼克斯\, 亚利桑那州
+X-ECAL-SCHEDULE:
+DTSTART:20261115T210000Z
+DTEND:20261115T233000Z
+SUMMARY:🏀 洛杉矶湖人 @ 菲尼克斯太阳
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30cd54aa884dc5570ab0
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：KTVK/KPHE/AZFS App\, S
+ pectrum SportsNet\, 菲尼克斯太阳+\, Spectrum SportsNet+\n\n📻 
+ 收听直播：SiriusXM\, ESPN Phoenix 620 AM\, ESPN LA 710/980 KFWB \n\
+ n🗣️ 参与话题 #LakersvSuns\n\n点击观看\nhttps://ecal.ai/f/2p
+ QPQN/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQPSz/3JsHK\n\nNBA数据\nht
+ tps://ecal.ai/f/2pQPTk/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQPV8/3JsHK\
+ n\nNBA 门票\nhttps://ecal.ai/f/2pQPVG/3JsHK\n\nFacebook\nhttps://ecal.
+ ai/f/2pQPWD/3JsHK\n\nX\nhttps://ecal.ai/f/2pQPXz/3JsHK\n\nInstagram\nhtt
+ ps://ecal.ai/f/2pQPYb/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQPYX/3JsHK\n\
+ n管理我的 ECAL\nhttps://ecal.ai/f/2pQQ2c/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Mortgage Matchup Center\, 菲尼克斯\, 亚利桑那州
+X-ECAL-SCHEDULE:
+DTSTART:20270209T023000Z
+DTEND:20270209T050000Z
+SUMMARY:🏀 洛杉矶湖人 @ 菲尼克斯太阳
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa884dc5570ac5
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：NBC Sports Network\, P
+ eacock\, Spectrum SportsNet\, Spectrum SportsNet+\n\n📻 收听直播
+ ：SiriusXM\, AZ Sports 98.7 FM / S: KSUN 1400AM\, ESPN LA 710/980 KFWB 
+ \n\n🗣️ 参与话题 #LakersvSuns\n\n点击观看\nhttps://ecal.ai/f
+ /2pQXjh/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQXjS/3JsHK\n\nNBA数据\
+ nhttps://ecal.ai/f/2pQXkw/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQXl6/3Js
+ HK\n\nNBA 门票\nhttps://ecal.ai/f/2pQXlK/3JsHK\n\nFacebook\nhttps://ec
+ al.ai/f/2pQXmW/3JsHK\n\nX\nhttps://ecal.ai/f/2pQXnq/3JsHK\n\nInstagram\n
+ https://ecal.ai/f/2pQXp3/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQXpH/3JsHK
+ \n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQXrC/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20270318T020000Z
+DTEND:20270318T043000Z
+SUMMARY:🏀 菲尼克斯太阳 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa884dc5570acc
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ESPN\, Spectrum Sports
+ Net\, KTVK/KPHE/AZFS App\, Spectrum SportsNet+\, 菲尼克斯太阳+\n\n
+ 📻 收听直播：SiriusXM\, ESPN LA 710/980 KFWB\, AZ Sports 98.7 FM 
+ / S: KSUN 1400AM \n\n🗣️ 参与话题 #SunsvLakers\n\n点击观看\n
+ https://ecal.ai/f/2pQZYx/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQZZ7/3J
+ sHK\n\nNBA数据\nhttps://ecal.ai/f/2pQZZP/3JsHK\n\nNBA App\nhttps://eca
+ l.ai/f/2pR11v/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pR128/3JsHK\n\nFac
+ ebook\nhttps://ecal.ai/f/2pR13m/3JsHK\n\nX\nhttps://ecal.ai/f/2pR14g/3Js
+ HK\n\nInstagram\nhttps://ecal.ai/f/2pR14G/3JsHK\n\nTikTok\nhttps://ecal.
+ ai/f/2pR15b/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pR17f/3JsHK\n
+ \n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20270412T003000Z
+DTEND:20270412T030000Z
+SUMMARY:🏀 菲尼克斯太阳 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30ce54aa884dc5570ad1
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\, K
+ TVK/KPHE/AZFS App\, Spectrum SportsNet+\, 菲尼克斯太阳+\n\n📻 
+ 收听直播：SiriusXM\, ESPN LA 710/980 KFWB\, AZ Sports 98.7 FM / S: 
+ KSUN 1400AM \n\n🗣️ 参与话题 #SunsvLakers\n\n点击观看\nhttps
+ ://ecal.ai/f/2pR3gz/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pR3hh/3JsHK\n
+ \nNBA数据\nhttps://ecal.ai/f/2pR3hG/3JsHK\n\nNBA App\nhttps://ecal.ai/
+ f/2pR3jc/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pR3jN/3JsHK\n\nFacebook
+ \nhttps://ecal.ai/f/2pR3kF/3JsHK\n\nX\nhttps://ecal.ai/f/2pR3lr/3JsHK\n\
+ nInstagram\nhttps://ecal.ai/f/2pR3mk/3JsHK\n\nTikTok\nhttps://ecal.ai/f/
+ 2pR3n6/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pR3rD/3JsHK\n\n
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 BEGIN:VALARM
 TRIGGER:-P1DT
