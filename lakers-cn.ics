@@ -1160,41 +1160,6 @@ LAST-MODIFIED:20261104T195935Z
 DTSTAMP:20261104T195935Z
 LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
 X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20261118T030000Z
-DTEND:20261118T053000Z
-SUMMARY:🏀 夏洛特黄蜂 @ 洛杉矶湖人
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30cd54aa884dc5570ab1
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\, T
- V 64/DAZN-夏洛特黄蜂\, Spectrum SportsNet+\n\n📻 收听直播：S
- iriusXM\, ESPN LA 710/980 KFWB\, WFNZ 92.7 FM \n\n🗣️ 参与话题 #
- HornetsvLakers\n\n点击观看\nhttps://ecal.ai/f/2pQQ33/3JsHK\n\nNBA商
- 店\nhttps://ecal.ai/f/2pQQ3P/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQQ
- 4v/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQQ54/3JsHK\n\nNBA 门票\nhttps
- ://ecal.ai/f/2pQQ5K/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2pQQ6L/3JsHK\n\
- nX\nhttps://ecal.ai/f/2pQQ7t/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQQ8
- 2/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQQ8H/3JsHK\n\n管理我的 ECAL\n
- https://ecal.ai/f/2pQQbG/3JsHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261104T195935Z
-DTSTAMP:20261104T195935Z
-LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 DTSTART:20261124T030000Z
 DTEND:20261124T053000Z
 SUMMARY:🏀 犹他爵士 @ 洛杉矶湖人
@@ -1563,42 +1528,6 @@ DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\, T
  pQTzb/3JsHK\n\nX\nhttps://ecal.ai/f/2pQTzR/3JsHK\n\nInstagram\nhttps://e
  cal.ai/f/2pQTBy/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQTCc/3JsHK\n\n管
  理我的 ECAL\nhttps://ecal.ai/f/2pQTFg/3JsHK\n\n
-BEGIN:VALARM
-TRIGGER:-P1DT
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-BEGIN:VALARM
-TRIGGER:-PT15M
-ACTION:DISPLAY
-DESCRIPTION:比赛提醒
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-LAST-MODIFIED:20261104T195935Z
-DTSTAMP:20261104T195935Z
-LOCATION:Intuit Dome球馆\, Inglewood\, 加利福尼亚州
-X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
-DTSTART:20270112T030000Z
-DTEND:20270112T053000Z
-SUMMARY:🏀 洛杉矶湖人 @ 洛杉矶快船
-TRANSP:TRANSPARENT
-SEQUENCE:0
-UID:6a7e30cd54aa8848ac4b21d8
-PRIORITY:5
-X-MICROSOFT-CDO-IMPORTANCE:1
-CLASS:PUBLIC
-DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：NBC Sports Network\, P
- eacock\, ClipperVision\, Spectrum SportsNet\, ClipperVision\, Spectrum S
- portsNet+\n\n📻 收听直播：SiriusXM\, AM 570 LA Sports / 1330 AM (
- S)\, ESPN LA 710/980 KFWB \n\n🗣️ 参与话题 #LakersvClippers\n\n
- 点击观看\nhttps://ecal.ai/f/2pQTG3/3JsHK\n\nNBA商店\nhttps://ecal.
- ai/f/2pQTGR/3JsHK\n\nNBA数据\nhttps://ecal.ai/f/2pQTHp/3JsHK\n\nNBA Ap
- p\nhttps://ecal.ai/f/2pQTJ3/3JsHK\n\nNBA 门票\nhttps://ecal.ai/f/2pQTJ
- N/3JsHK\n\nFacebook\nhttps://ecal.ai/f/2pQTL1/3JsHK\n\nX\nhttps://ecal.a
- i/f/2pQTLL/3JsHK\n\nInstagram\nhttps://ecal.ai/f/2pQTMr/3JsHK\n\nTikTok\
- nhttps://ecal.ai/f/2pQTNd/3JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/
- 2pQTQy/3JsHK\n\n
 BEGIN:VALARM
 TRIGGER:-P1DT
 ACTION:DISPLAY
@@ -2785,6 +2714,78 @@ DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：Spectrum SportsNet\, 3
  //ecal.ai/f/2pR3kF/3JsHK\n\nX\nhttps://ecal.ai/f/2pR3lr/3JsHK\n\nInstagr
  am\nhttps://ecal.ai/f/2pR3mk/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pR3n6/3
  JsHK\n\n管理我的 ECAL\nhttps://ecal.ai/f/2pR3rD/3JsHK\n\n
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Intuit Dome球馆\, Inglewood\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20270112T033000Z
+DTEND:20270112T060000Z
+SUMMARY:🏀 洛杉矶湖人 @ 洛杉矶快船
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30cd54aa8848ac4b21d8
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：ClipperVision\, Spectr
+ um SportsNet\, ClipperVision\, Spectrum SportsNet+\n\n📻 收听直播
+ ：SiriusXM\, AM 570 LA Sports / 1330 AM (S)\, ESPN LA 710/980 KFWB \n\n
+ 🗣️ 参与话题 #LakersvClippers\n\n点击观看\nhttps://ecal.ai/f
+ /2pQTG3/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQTGR/3JsHK\n\nNBA数据\
+ nhttps://ecal.ai/f/2pQTHp/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQTJ3/3Js
+ HK\n\nNBA 门票\nhttps://ecal.ai/f/2pQTJN/3JsHK\n\nFacebook\nhttps://ec
+ al.ai/f/2pQTL1/3JsHK\n\nX\nhttps://ecal.ai/f/2pQTLL/3JsHK\n\nInstagram\n
+ https://ecal.ai/f/2pQTMr/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQTNd/3JsHK
+ \n\n管理我的 ECAL\nhttps://ecal.ai/f/2pQTQy/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
+BEGIN:VALARM
+TRIGGER:-P1DT
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:比赛提醒
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:00010101T000000Z
+DTSTAMP:00010101T000000Z
+LOCATION:Crypto.com球馆\, 洛杉矶\, 加利福尼亚州
+X-ECAL-SCHEDULE:
+DTSTART:20261118T040000Z
+DTEND:20261118T063000Z
+SUMMARY:🏀 夏洛特黄蜂 @ 洛杉矶湖人
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:6a7e30cd54aa884dc5570ab1
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NBA常规赛 \n\n▶️ 观看直播：NBC\, Peacock\, Spectr
+ um SportsNet\, TV 64/DAZN-夏洛特黄蜂\, Spectrum SportsNet+\n\n📻 
+ 收听直播：SiriusXM\, ESPN LA 710/980 KFWB\, WFNZ 92.7 FM \n\n🗣
+ ️ 参与话题 #HornetsvLakers\n\n点击观看\nhttps://ecal.ai/f/2pQQ
+ 33/3JsHK\n\nNBA商店\nhttps://ecal.ai/f/2pQQ3P/3JsHK\n\nNBA数据\nhttp
+ s://ecal.ai/f/2pQQ4v/3JsHK\n\nNBA App\nhttps://ecal.ai/f/2pQQ54/3JsHK\n\
+ nNBA 门票\nhttps://ecal.ai/f/2pQQ5K/3JsHK\n\nFacebook\nhttps://ecal.ai
+ /f/2pQQ6L/3JsHK\n\nX\nhttps://ecal.ai/f/2pQQ7t/3JsHK\n\nInstagram\nhttps
+ ://ecal.ai/f/2pQQ82/3JsHK\n\nTikTok\nhttps://ecal.ai/f/2pQQ8H/3JsHK\n\n
+ 管理我的 ECAL\nhttps://ecal.ai/f/2pQQbG/3JsHK\n\n
+X-ECAL-SCHEDULE:6616137a6b0e5d5b1d48c57d
 BEGIN:VALARM
 TRIGGER:-P1DT
 ACTION:DISPLAY
